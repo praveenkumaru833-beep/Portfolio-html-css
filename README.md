@@ -82,7 +82,7 @@ During my internship, I worked on a full-stack event management platform and gai
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** Add your deployed portfolio link here
+🔗 **Portfolio:** https://praveen-portfolio-2026.netlify.app/
 
 ---
 
